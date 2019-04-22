@@ -1,9 +1,7 @@
-## Welcome to GitHub Pages
+## Welcome to Willie's World
 
-You can use the [editor on GitHub](https://github.com/WillieWrites/WillieWrites.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
+A computer science major who is looking to put the "art" in college of arts and science. I believe that creativity is the greatest assest of 
+the human race and I want to bring that creativity and love for art into my work in the future. I am looking for an oppurtunity to further my education in a professional setting and get first hand experience in the field. I am a junior at the university of North Carolina at Greensboro. I also am the assitant artistic director of the non-profit organization Authoring Action. 
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
