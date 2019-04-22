@@ -21,7 +21,7 @@ I am a junior at the university of North Carolina at Greensboro. I also am the a
 # The Hard Sell
 ![image](willie2.png)
 
-I am a student looking for an oppurtunity to hone my craft and continue to learn and grow in a field that I have loved since the first time I sat in front of a computer to play tetris. Help me on my journey, you will not regret it. 
+I am a student looking for an oppurtunity to hone my craft and continue to learn and grow in a field that I have loved since the first time I sat in front of a computer to play tetris. Help me on my journey, you will not regret it. Looking forward to hearing from you. 
 
 # Keep in touch
 
